@@ -23,7 +23,7 @@ A simple Flask web app that predicts the medical insurance cost for an individua
 > Input personal details like age, BMI, region, and smoking status.  
 > Get an instant prediction for expected insurance cost.
 
-![Screenshot](assets/demo.png) <!-- Replace with your screenshot path -->
+![App Screenshot](assets/demo.png) <!-- Replace with your screenshot path -->
 
 ---
 
